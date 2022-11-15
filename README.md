@@ -1,2 +1,0 @@
-# clase.github.io
-ninguna
